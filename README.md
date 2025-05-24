@@ -1,1 +1,1 @@
-# geotech-python-libraries
+# Python Libraries for Geotechnical Engineering
